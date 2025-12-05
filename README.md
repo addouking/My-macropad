@@ -6,8 +6,10 @@ Schematic:
 ![image](/image.png)
 PCB Image:
 ![image](/image4.png)
-Assembled Form:
+Model of assembled form:
 ![image](/image5.png)
 Case Parts:
 ![image](/image2.png)
 ![image](/image3.png)
+
+
