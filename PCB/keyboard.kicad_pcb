@@ -9571,6 +9571,30 @@
 		(layer "Edge.Cuts")
 		(uuid "c2483a19-c7a4-4f58-80de-58503e45afb2")
 	)
+	(gr_text "Yusuf's Macropad"
+		(at 76.2 16.66875 0)
+		(layer "F.SilkS")
+		(uuid "5df1b4e5-2265-4cfe-b498-ae66a3080bbc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "XIAO HERE"
+		(at 95.25 30.95625 0)
+		(layer "F.SilkS")
+		(uuid "6cfc1f99-2b50-42bb-b34a-07204d96060d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 101.0755 17.352)
 		(end 121.16608 17.352)
